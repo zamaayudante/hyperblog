@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 Esta es la historia de Eduardo Zamarrón
 
 Eduardo Zamarrón tiene 24 años y nació en Durango, México.
 
-Mañana nos enfocaremos en su vida profesional
-=======
-esto es una historia
- y pues la historia estara bien perrona
+EduardoAyudante tiene 37 años y nació en el interné
 
-Esta historia será una de las mejores y jamás contadas, la juan sin miedo y unas cuantas mas
->>>>>>> 1d378d51d68db86b3c0fd9aa6fb019e07a43aa53
+Mañana nos enfocaremos en su vida profesional
